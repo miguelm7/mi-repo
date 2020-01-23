@@ -12,8 +12,8 @@ LINETHICKNESS = 10
 #Main function
 
 #Keeps track of ball direction
-ballDirX = 5 ## -1 = left 1 = right
-ballDirY = 5 ## -1 = up 1 = down
+ballDirX = 10 ## -1 = left 1 = right
+ballDirY = 10 ## -1 = up 1 = down
     
 x = 1
 y = 1
