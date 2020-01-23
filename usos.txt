@@ -1,0 +1,5 @@
+#añadir repositorio ya creado
+git remote add origin https://github.com/miguelm7/mi-repo.git
+
+#push los archivos del repo local
+git push -u origin master
